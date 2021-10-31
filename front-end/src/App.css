@@ -1,0 +1,11 @@
+.App {
+  font-family: monospace;
+}
+.Character-out { 
+}
+.Character-current {
+  background-color: aquamarine;
+}
+.Character-in {
+  color: #BBB;
+}
